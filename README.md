@@ -1,5 +1,5 @@
 ## Excel BMW Sales Analysis
-Sales data analysis of Mahindra vehicles using Excel to identify revenue trends, top-performing models, regional performance, and monthly growth insights.
+Sales data analysis of BMW Sales Analysis  using Excel to identify revenue trends, top-performing models, regional performance, and monthly growth insights.
 
 ## 🚗 BMW Sales Analysis (Excel Project)
  
