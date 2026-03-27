@@ -23,6 +23,9 @@ This project focuses on analyzing BMW vehicle sales data using Microsoft Excel t
 • Revenue Performance Insights
 • Growth Percentage Calculation
 
+## 📷 Dashboard Preview
+<img width="1243" height="931" alt="BMW Sales Analysis Dashboard" src="https://github.com/user-attachments/assets/9ecc3488-dcf2-408d-9f30-42155b8b048b" />
+
 ## 📈 Insights Derived
  • SUV models (X series) are the top revenue contributors
  • Sales show peak growth in festive and year-end months
